@@ -1,0 +1,71 @@
+Markdown Guide
+---
+
+# Lorem Ipsum Dolor Sit Amet
+
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Header 5
+
+###### Header 6
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. *Italic* text here.
+
+**Bold** text emphasis.
+
+***Bold and italic*** text for more emphasis.
+
+- Bullet list item 1
+- Bullet list item 2
+  - Nested bullet list item
+
+1. Numbered list item 1
+2. Numbered list item 2
+   1. Nested numbered list item
+
+> Blockquote: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+`Inline code` with backticks.
+
+```markdown
+Block code "fence"
+
+- Use three backticks (```) or tildes (~~~) to start and end a block of code.
+- Language identifier (optional) can be used for syntax highlighting.
+```
+
+[This is a link](http://example.com) to Example.com.
+
+![Alt text for an image](http://example.com/image.png)
+
+Horizontal rule below:
+
+---
+
+| Table        | Example       | Here  |
+| ------------ |:-------------:| -----:|
+| Row 1 Col 1  | Row 1 Col 2   | $1600 |
+| Row 2 Col 1  | Row 2 Col 2   |   $12 |
+| Row 3 Col 1  | Row 3 Col 2   |    $1 |
+
+**Markdown Guide:**
+
+- `# Header 1` through `###### Header 6`: Defines headers from level 1 to level 6.
+- `*Italic*`: Italicizes text.
+- `**Bold**`: Makes text bold.
+- `***Bold and italic***`: Applies both bold and italic styling.
+- `-` or `*` before text: Creates a bullet list.
+- `1.`, `2.`, etc.: Creates a numbered list.
+- `>`: Creates a blockquote.
+- `` `Inline code` ``: Marks text as inline code.
+- ```` ``` ````: Creates a code block; optionally add a language identifier right after the first three backticks for syntax highlighting.
+- `[Text](URL)`: Creates a hyperlink.
+- `![Alt text](ImageURL)`: Embeds an image.
+- `---`: Inserts a horizontal rule.
+- Table creation with rows and columns, align text using colons.
+
+This document serves as a quick reference to Markdown syntax, useful for formatting text on platforms that support Markdown.
