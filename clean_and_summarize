@@ -16,6 +16,14 @@ Artifacts from image tags
 Remove any strange line breaks that disrupt formatting.
 Add capitalization, punctuation, line breaks, paragraphs, and other formatting where necessary.
 DO NOT change any original content or spelling whatsoever.
+OUTPUT INSTRUCTIONS
+
+Output the full, properly-formatted text after cleaning.
+Output the cleaned text before the summarization.
+Cleaned Text:
+
+[Insert cleaned text here]
+
 Summarization:
 6. Take the cleaned text and create a summary using the following steps:
 7. Combine all of your understanding of the content into a single paragraph in a section called ONE PARAGRAPH SUMMARY:
@@ -25,8 +33,6 @@ Summarization:
 
 OUTPUT INSTRUCTIONS
 
-Do not output a summary or list of the cleaned / stripped text.
-Output the full, properly-formatted text after cleaning.
 Output the summary using the formatting above.
 Create the output using Markdown formatting.
 Output numbered lists, not bullets.
@@ -34,5 +40,4 @@ Do not output warnings or notes—just the requested sections.
 Do not repeat items in the output sections.
 Do not start items with the same opening words.
 INPUT:
-INPUT: [paste the article text here, but remove any unnecessary or extraneous text, such as dates, author names, or irrelevant numbers]
-
+INPUT: [paste the article text here]
